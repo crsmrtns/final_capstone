@@ -1,11 +1,7 @@
-Project name:
+Advanced AI models can offer transformative benefits in various aspects of people's lives, from organising emails, improving productivity, providing prompt feedback and enhancing learning for students, to assisting doctors in accurate disease diagnosis.
 
-A clear, short, and to-the-point description of your project. Describe the importance of your project and what it does.
+By automating email categorisation, students receive valuable essay-scoring feedback, and doctors gain insights for precise diagnoses.
 
-A table of contents to allow other people to quickly navigate especially long or detailed READMEs.
+AI empowers individuals across different domains to streamline their tasks, optimise performance, and make informed decisions, ultimately improving the overall quality of life.
 
-An installation section that tells other users how to install your project locally.
-
-A usage section that instructs others on how to use your project after they've installed it. Includes screenshots of your project in action.
-
-A section for credits that highlights and links to the authors of your project if the project has been created by more than one person.
+In this capstone I researched these topics.
